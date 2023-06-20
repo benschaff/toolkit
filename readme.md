@@ -16,4 +16,4 @@ The included tools are:
 
 ## Installation
 
-`go get -u github.com/benschaff/toolbox`
+`go get -u github.com/benschaff/toolkit`
